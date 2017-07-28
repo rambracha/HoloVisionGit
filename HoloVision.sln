@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloVision.Plugins", "HoloVision.Plugins.csproj", "{8FB2D8AC-2062-156D-1ABF-50B6B9705DC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloVision", "HoloVision.csproj", "{9734C951-C239-C523-6659-3088CFE14524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloVision.Editor.Plugins", "HoloVision.Editor.Plugins.csproj", "{9DDFB324-B431-0585-5F94-3C004FC89AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FB2D8AC-2062-156D-1ABF-50B6B9705DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB2D8AC-2062-156D-1ABF-50B6B9705DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB2D8AC-2062-156D-1ABF-50B6B9705DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB2D8AC-2062-156D-1ABF-50B6B9705DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9734C951-C239-C523-6659-3088CFE14524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9734C951-C239-C523-6659-3088CFE14524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9734C951-C239-C523-6659-3088CFE14524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9734C951-C239-C523-6659-3088CFE14524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDFB324-B431-0585-5F94-3C004FC89AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDFB324-B431-0585-5F94-3C004FC89AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDFB324-B431-0585-5F94-3C004FC89AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDFB324-B431-0585-5F94-3C004FC89AED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
